@@ -1,0 +1,11 @@
+cat
+dog
+milk
+car
+engine
+computer
+program
+poland
+england
+apple
+orange
