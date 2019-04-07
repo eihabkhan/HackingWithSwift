@@ -11,7 +11,6 @@
 		09D04823221D13EB00B25D2F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 09D04822221D13EB00B25D2F /* AppDelegate.swift */; };
 		09D04825221D13EB00B25D2F /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 09D04824221D13EB00B25D2F /* ViewController.swift */; };
 		09D04828221D13EB00B25D2F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 09D04826221D13EB00B25D2F /* Main.storyboard */; };
-		09D0482B221D13EB00B25D2F /* Project_1.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 09D04829221D13EB00B25D2F /* Project_1.xcdatamodeld */; };
 		09D0482D221D13EC00B25D2F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 09D0482C221D13EC00B25D2F /* Assets.xcassets */; };
 		09D04830221D13EC00B25D2F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 09D0482E221D13EC00B25D2F /* LaunchScreen.storyboard */; };
 		09D04842221D1F4500B25D2F /* nssl0049.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 09D04838221D1F4500B25D2F /* nssl0049.jpg */; };
@@ -32,7 +31,6 @@
 		09D04822221D13EB00B25D2F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		09D04824221D13EB00B25D2F /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		09D04827221D13EB00B25D2F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		09D0482A221D13EB00B25D2F /* Project_1.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Project_1.xcdatamodel; sourceTree = "<group>"; };
 		09D0482C221D13EC00B25D2F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		09D0482F221D13EC00B25D2F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		09D04831221D13EC00B25D2F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -85,7 +83,6 @@
 				09D0482C221D13EC00B25D2F /* Assets.xcassets */,
 				09D0482E221D13EC00B25D2F /* LaunchScreen.storyboard */,
 				09D04831221D13EC00B25D2F /* Info.plist */,
-				09D04829221D13EB00B25D2F /* Project_1.xcdatamodeld */,
 				09D04837221D1F4500B25D2F /* Content */,
 			);
 			path = "Project 1";
@@ -189,7 +186,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				09D0482B221D13EB00B25D2F /* Project_1.xcdatamodeld in Sources */,
 				09D04825221D13EB00B25D2F /* ViewController.swift in Sources */,
 				09D04823221D13EB00B25D2F /* AppDelegate.swift in Sources */,
 				098307FF221EC60500254DBF /* DetailViewController.swift in Sources */,
@@ -398,19 +394,6 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
-
-/* Begin XCVersionGroup section */
-		09D04829221D13EB00B25D2F /* Project_1.xcdatamodeld */ = {
-			isa = XCVersionGroup;
-			children = (
-				09D0482A221D13EB00B25D2F /* Project_1.xcdatamodel */,
-			);
-			currentVersion = 09D0482A221D13EB00B25D2F /* Project_1.xcdatamodel */;
-			path = Project_1.xcdatamodeld;
-			sourceTree = "<group>";
-			versionGroupType = wrapper.xcdatamodel;
-		};
-/* End XCVersionGroup section */
 	};
 	rootObject = 09D04817221D13EB00B25D2F /* Project object */;
 }

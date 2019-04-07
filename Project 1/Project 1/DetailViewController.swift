@@ -18,6 +18,7 @@ class DetailViewController: UIViewController {
     
     override func viewWillAppear(_ animated: Bool) {
         super.viewWillAppear(animated)
+        assert(selectedImage != nil)
         navigationController?.hidesBarsOnTap = true
     }
     

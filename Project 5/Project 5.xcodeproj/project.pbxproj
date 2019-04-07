@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		098709AB223E2D24008738CD /* start.txt in Resources */ = {isa = PBXBuildFile; fileRef = 098709AA223E2D24008738CD /* start.txt */; };
+		099E9DBB2259BF6A00153E39 /* start.txt in Resources */ = {isa = PBXBuildFile; fileRef = 099E9DBA2259BF6A00153E39 /* start.txt */; };
 		09E89B9C222AFD9200705C44 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 09E89B9B222AFD9200705C44 /* AppDelegate.swift */; };
 		09E89B9E222AFD9200705C44 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 09E89B9D222AFD9200705C44 /* ViewController.swift */; };
 		09E89BA1222AFD9200705C44 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 09E89B9F222AFD9200705C44 /* Main.storyboard */; };
@@ -16,7 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		098709AA223E2D24008738CD /* start.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = start.txt; path = ../../../../Desktop/start.txt; sourceTree = "<group>"; };
+		099E9DBA2259BF6A00153E39 /* start.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = start.txt; sourceTree = "<group>"; };
 		09E89B98222AFD9200705C44 /* Project 5.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Project 5.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		09E89B9B222AFD9200705C44 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		09E89B9D222AFD9200705C44 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -59,8 +59,8 @@
 				09E89B9B222AFD9200705C44 /* AppDelegate.swift */,
 				09E89B9D222AFD9200705C44 /* ViewController.swift */,
 				09E89B9F222AFD9200705C44 /* Main.storyboard */,
-				098709AA223E2D24008738CD /* start.txt */,
 				09E89BA2222AFD9200705C44 /* Assets.xcassets */,
+				099E9DBA2259BF6A00153E39 /* start.txt */,
 				09E89BA4222AFD9200705C44 /* LaunchScreen.storyboard */,
 				09E89BA7222AFD9200705C44 /* Info.plist */,
 			);
@@ -128,7 +128,7 @@
 				09E89BA6222AFD9200705C44 /* LaunchScreen.storyboard in Resources */,
 				09E89BA3222AFD9200705C44 /* Assets.xcassets in Resources */,
 				09E89BA1222AFD9200705C44 /* Main.storyboard in Resources */,
-				098709AB223E2D24008738CD /* start.txt in Resources */,
+				099E9DBB2259BF6A00153E39 /* start.txt in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
